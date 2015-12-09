@@ -1,0 +1,19 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "simple starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js --live",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple"
+  ],
+  "author": "Mukesh <codejets@gmail.com> (http://www.codejets.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "budo": "7.0.2",
+    "watchify": "3.6.1"
+  }
+}
